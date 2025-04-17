@@ -1,4 +1,0 @@
-configs
-etl
-logs
-tools
